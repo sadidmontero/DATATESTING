@@ -1,0 +1,160 @@
+[
+    {
+        "Fecha": "2024-08-10",
+        "Data": [
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VAO",
+                "Gerencia": "ANDINA",
+                "Campo": "22",
+                "Porcentaje_Campo": "8.6",
+                "Completion": "1359",
+                "Porcentaje_Completion": "6.9"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRO",
+                "Gerencia": "APIAY",
+                "Campo": "18",
+                "Porcentaje_Campo": "7.0",
+                "Completion": "349",
+                "Porcentaje_Completion": "1.8"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRO",
+                "Gerencia": "CASTILLA",
+                "Campo": "3",
+                "Porcentaje_Campo": "1.2",
+                "Completion": "995",
+                "Porcentaje_Completion": "5.0"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRC",
+                "Gerencia": "CATENARE",
+                "Campo": "13",
+                "Porcentaje_Campo": "5.1",
+                "Completion": "2944",
+                "Porcentaje_Completion": "14.9"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VFS",
+                "Gerencia": "CENTRO NORTE",
+                "Campo": "52",
+                "Porcentaje_Campo": "20.2",
+                "Completion": "760",
+                "Porcentaje_Completion": "3.9"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VFS",
+                "Gerencia": "CENTRO ORIENTE",
+                "Campo": "2",
+                "Porcentaje_Campo": "0.8",
+                "Completion": "38",
+                "Porcentaje_Completion": "0.2"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VFS",
+                "Gerencia": "CENTRO SUR",
+                "Campo": "68",
+                "Porcentaje_Campo": "26.5",
+                "Completion": "1175",
+                "Porcentaje_Completion": "6.0"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRO",
+                "Gerencia": "CHICHIMENE",
+                "Campo": "2",
+                "Porcentaje_Campo": "0.8",
+                "Completion": "396",
+                "Porcentaje_Completion": "2.0"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRO",
+                "Gerencia": "CPO-09",
+                "Campo": "1",
+                "Porcentaje_Campo": "0.4",
+                "Completion": "73",
+                "Porcentaje_Completion": "0.4"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRC",
+                "Gerencia": "DE MARES",
+                "Campo": "22",
+                "Porcentaje_Campo": "8.6",
+                "Completion": "1749",
+                "Porcentaje_Completion": "8.9"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRC",
+                "Gerencia": "DEL RIO",
+                "Campo": "9",
+                "Porcentaje_Campo": "3.5",
+                "Completion": "2157",
+                "Porcentaje_Completion": "10.9"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VEX",
+                "Gerencia": "GERENCIA DE ONSHORE OCCIDENTE",
+                "Campo": "4",
+                "Porcentaje_Campo": "1.6",
+                "Completion": "4",
+                "Porcentaje_Completion": "0.0"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VEX",
+                "Gerencia": "GERENCIA DE ONSHORE ORIENTE",
+                "Campo": "4",
+                "Porcentaje_Campo": "1.6",
+                "Completion": "11",
+                "Porcentaje_Completion": "0.1"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRC",
+                "Gerencia": "LA CIRA INFANTAS",
+                "Campo": "2",
+                "Porcentaje_Campo": "0.8",
+                "Completion": "4505",
+                "Porcentaje_Completion": "22.9"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VAO",
+                "Gerencia": "ORIENTE",
+                "Campo": "11",
+                "Porcentaje_Campo": "4.3",
+                "Completion": "2537",
+                "Porcentaje_Completion": "12.9"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VPI",
+                "Gerencia": "PIEDEMONTE",
+                "Campo": "8",
+                "Porcentaje_Campo": "3.1",
+                "Completion": "378",
+                "Porcentaje_Completion": "1.9"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VAO",
+                "Gerencia": "PUTUMAYO",
+                "Campo": "16",
+                "Porcentaje_Campo": "6.2",
+                "Completion": "284",
+                "Porcentaje_Completion": "1.4"
+            }
+        ]
+    }
+]

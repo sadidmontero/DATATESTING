@@ -1,0 +1,126 @@
+[
+    {
+        "Fecha": "2024-08-10",
+        "Data": [
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VFS",
+                "Gerencia": "CENTRO NORTE",
+                "Porcentaje_Calidad": "68.4",
+                "Porcentaje_Faltante": "31.6"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRO",
+                "Gerencia": "CASTILLA",
+                "Porcentaje_Calidad": "88.6",
+                "Porcentaje_Faltante": "11.4"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VAO",
+                "Gerencia": "ANDINA",
+                "Porcentaje_Calidad": "85.0",
+                "Porcentaje_Faltante": "15.0"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VEX",
+                "Gerencia": "GERENCIA DE ONSHORE OCCIDENTE",
+                "Porcentaje_Calidad": "68.2",
+                "Porcentaje_Faltante": "31.8"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VEX",
+                "Gerencia": "GERENCIA DE ONSHORE ORIENTE",
+                "Porcentaje_Calidad": "66.1",
+                "Porcentaje_Faltante": "33.9"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRO",
+                "Gerencia": "CHICHIMENE",
+                "Porcentaje_Calidad": "89.0",
+                "Porcentaje_Faltante": "11.0"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRO",
+                "Gerencia": "APIAY",
+                "Porcentaje_Calidad": "89.1",
+                "Porcentaje_Faltante": "10.9"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VAO",
+                "Gerencia": "ORIENTE",
+                "Porcentaje_Calidad": "76.6",
+                "Porcentaje_Faltante": "23.4"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRC",
+                "Gerencia": "CATENARE",
+                "Porcentaje_Calidad": "74.4",
+                "Porcentaje_Faltante": "25.6"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VFS",
+                "Gerencia": "CENTRO ORIENTE",
+                "Porcentaje_Calidad": "58.4",
+                "Porcentaje_Faltante": "41.6"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRO",
+                "Gerencia": "CPO-09",
+                "Porcentaje_Calidad": "82.3",
+                "Porcentaje_Faltante": "17.7"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VPI",
+                "Gerencia": "PIEDEMONTE",
+                "Porcentaje_Calidad": "80.3",
+                "Porcentaje_Faltante": "19.7"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRC",
+                "Gerencia": "DE MARES",
+                "Porcentaje_Calidad": "85.3",
+                "Porcentaje_Faltante": "14.7"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRC",
+                "Gerencia": "LA CIRA INFANTAS",
+                "Porcentaje_Calidad": "84.6",
+                "Porcentaje_Faltante": "15.4"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VRC",
+                "Gerencia": "DEL RIO",
+                "Porcentaje_Calidad": "73.8",
+                "Porcentaje_Faltante": "26.2"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VFS",
+                "Gerencia": "CENTRO SUR",
+                "Porcentaje_Calidad": "42.4",
+                "Porcentaje_Faltante": "57.6"
+            },
+            {
+                "Fecha": "2024-08-10 00:00:00",
+                "Vicepresidencia": "VAO",
+                "Gerencia": "PUTUMAYO",
+                "Porcentaje_Calidad": "85.5",
+                "Porcentaje_Faltante": "14.5"
+            }
+        ]
+    }
+]
