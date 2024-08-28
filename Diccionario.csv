@@ -1,0 +1,369 @@
+﻿Asset,Header,Property
+ALS,Generic,created_time
+ALS,Generic,data_set_id
+ALS,Generic,description
+ALS,Generic,external_id
+ALS,Generic,id
+ALS,Generic,label
+ALS,Generic,last_updated_time
+ALS,Generic,name
+ALS,Generic,parent_id
+ALS,Generic,root_id
+ALS,Generic,source
+ALS,Metadata,Capacity
+ALS,Metadata,Diameter
+ALS,Metadata,Manufacturer
+ALS,Metadata,Motor_Amperage
+ALS,Metadata,Motor_Model
+ALS,Metadata,Motor_Power
+ALS,Metadata,Motor_Voltage
+ALS,Metadata,Pump_Feature
+ALS,Metadata,Pump_Series
+ALS,Metadata,Pump_Type
+ALS,Metadata,Stages
+ALS,Metadata,Type
+Completion,Generic,created_time
+Completion,Generic,data_set_id
+Completion,Generic,description
+Completion,Generic,external_id
+Completion,Generic,id
+Completion,Generic,label
+Completion,Generic,last_updated_time
+Completion,Generic,name
+Completion,Generic,parent_id
+Completion,Generic,root_id
+Completion,Generic,source
+Completion,Metadata,Type
+Compressor,Generic,created_time
+Compressor,Generic,data_set_id
+Compressor,Generic,description
+Compressor,Generic,external_id
+Compressor,Generic,id
+Compressor,Generic,label
+Compressor,Generic,last_updated_time
+Compressor,Generic,name
+Compressor,Generic,parent_id
+Compressor,Generic,root_id
+Compressor,Generic,source
+Compressor,Metadata,Horsepower
+Compressor,Metadata,Manufacturer
+Compressor,Metadata,Model
+Compressor,Metadata,Power_Source
+Compressor,Metadata,Status
+Compressor,Metadata,Type
+Contract,Generic,created_time
+Contract,Generic,data_set_id
+Contract,Generic,description
+Contract,Generic,external_id
+Contract,Generic,id
+Contract,Generic,label
+Contract,Generic,last_updated_time
+Contract,Generic,name
+Contract,Generic,parent_id
+Contract,Generic,root_id
+Contract,Generic,source
+Contract,Metadata,EndDate
+Contract,Metadata,StartDate
+Contract,Metadata,SubType
+Contract,Metadata,Type
+decanter,Generic,created_time
+decanter,Generic,data_set_id
+decanter,Generic,description
+decanter,Generic,external_id
+decanter,Generic,id
+decanter,Generic,label
+decanter,Generic,last_updated_time
+decanter,Generic,name
+decanter,Generic,parent_id
+decanter,Generic,root_id
+decanter,Generic,source
+decanter,Metadata,Type
+Engine,Generic,created_time
+Engine,Generic,data_set_id
+Engine,Generic,description
+Engine,Generic,external_id
+Engine,Generic,id
+Engine,Generic,label
+Engine,Generic,last_updated_time
+Engine,Generic,name
+Engine,Generic,parent_id
+Engine,Generic,root_id
+Engine,Generic,source
+Engine,Metadata,Type
+Facility,Generic,created_time
+Facility,Generic,data_set_id
+Facility,Generic,description
+Facility,Generic,external_id
+Facility,Generic,id
+Facility,Generic,label
+Facility,Generic,last_updated_time
+Facility,Generic,name
+Facility,Generic,parent_id
+Facility,Generic,root_id
+Facility,Generic,source
+Facility,Metadata,SubType
+Facility,Metadata,SurfaceCoordX
+Facility,Metadata,SurfaceCoordY
+Facility,Metadata,Type
+Field,Generic,created_time
+Field,Generic,data_set_id
+Field,Generic,description
+Field,Generic,external_id
+Field,Generic,id
+Field,Generic,label
+Field,Generic,last_updated_time
+Field,Generic,name
+Field,Generic,parent_id
+Field,Generic,root_id
+Field,Generic,source
+Field,Metadata,SubType
+Field,Metadata,Type
+Filter,Generic,created_time
+Filter,Generic,data_set_id
+Filter,Generic,description
+Filter,Generic,external_id
+Filter,Generic,id
+Filter,Generic,label
+Filter,Generic,last_updated_time
+Filter,Generic,name
+Filter,Generic,parent_id
+Filter,Generic,root_id
+Filter,Generic,source
+Filter,Metadata,Manufacturer
+Filter,Metadata,Model
+Filter,Metadata,Type
+flotation cells,Generic,created_time
+flotation cells,Generic,data_set_id
+flotation cells,Generic,description
+flotation cells,Generic,external_id
+flotation cells,Generic,id
+flotation cells,Generic,label
+flotation cells,Generic,last_updated_time
+flotation cells,Generic,name
+flotation cells,Generic,parent_id
+flotation cells,Generic,root_id
+flotation cells,Generic,source
+flotation cells,Metadata,Type
+Generator,Generic,created_time
+Generator,Generic,data_set_id
+Generator,Generic,description
+Generator,Generic,external_id
+Generator,Generic,id
+Generator,Generic,label
+Generator,Generic,last_updated_time
+Generator,Generic,name
+Generator,Generic,parent_id
+Generator,Generic,root_id
+Generator,Generic,source
+Generator,Metadata,Frequency
+Generator,Metadata,HorsePower
+Generator,Metadata,Manufacturer
+Generator,Metadata,Model
+Generator,Metadata,Output_Type
+Generator,Metadata,Power_Source
+Generator,Metadata,Rated_Power
+Generator,Metadata,Rated_Voltage
+Generator,Metadata,Type
+Manifold,Generic,created_time
+Manifold,Generic,data_set_id
+Manifold,Generic,description
+Manifold,Generic,external_id
+Manifold,Generic,id
+Manifold,Generic,label
+Manifold,Generic,last_updated_time
+Manifold,Generic,name
+Manifold,Generic,parent_id
+Manifold,Generic,root_id
+Manifold,Generic,source
+Manifold,Metadata,Design
+Manifold,Metadata,Manufacturer
+Manifold,Metadata,Model
+Manifold,Metadata,Type
+Meter,Generic,created_time
+Meter,Generic,data_set_id
+Meter,Generic,description
+Meter,Generic,external_id
+Meter,Generic,id
+Meter,Generic,label
+Meter,Generic,last_updated_time
+Meter,Generic,name
+Meter,Generic,parent_id
+Meter,Generic,root_id
+Meter,Generic,source
+Meter,Metadata,Type
+Motor,Generic,created_time
+Motor,Generic,data_set_id
+Motor,Generic,description
+Motor,Generic,external_id
+Motor,Generic,id
+Motor,Generic,label
+Motor,Generic,last_updated_time
+Motor,Generic,name
+Motor,Generic,parent_id
+Motor,Generic,root_id
+Motor,Generic,source
+Motor,Metadata,Type
+Organization Unit 2,Generic,created_time
+Organization Unit 2,Generic,data_set_id
+Organization Unit 2,Generic,description
+Organization Unit 2,Generic,external_id
+Organization Unit 2,Generic,id
+Organization Unit 2,Generic,label
+Organization Unit 2,Generic,last_updated_time
+Organization Unit 2,Generic,name
+Organization Unit 2,Generic,parent_id
+Organization Unit 2,Generic,root_id
+Organization Unit 2,Generic,source
+Organization Unit 2,Metadata,Type
+OrganizationUnit ,Generic,created_time
+OrganizationUnit ,Generic,data_set_id
+OrganizationUnit ,Generic,description
+OrganizationUnit ,Generic,external_id
+OrganizationUnit ,Generic,id
+OrganizationUnit ,Generic,label
+OrganizationUnit ,Generic,last_updated_time
+OrganizationUnit ,Generic,name
+OrganizationUnit ,Generic,parent_id
+OrganizationUnit ,Generic,root_id
+OrganizationUnit ,Generic,source
+OrganizationUnit ,Metadata,Type
+Pattern,Generic,created_time
+Pattern,Generic,data_set_id
+Pattern,Generic,description
+Pattern,Generic,external_id
+Pattern,Generic,id
+Pattern,Generic,label
+Pattern,Generic,last_updated_time
+Pattern,Generic,name
+Pattern,Generic,parent_id
+Pattern,Generic,root_id
+Pattern,Generic,source
+Pattern,Metadata,Area
+Pattern,Metadata,Class
+Pattern,Metadata,Design
+Pattern,Metadata,Type
+Pump,Generic,created_time
+Pump,Generic,data_set_id
+Pump,Generic,description
+Pump,Generic,external_id
+Pump,Generic,id
+Pump,Generic,label
+Pump,Generic,last_updated_time
+Pump,Generic,name
+Pump,Generic,parent_id
+Pump,Generic,root_id
+Pump,Generic,source
+Pump,Metadata,Capacity
+Pump,Metadata,Diameter
+Pump,Metadata,Manufacturer
+Pump,Metadata,Motor_Amperage
+Pump,Metadata,Motor_Model
+Pump,Metadata,Motor_Power
+Pump,Metadata,Motor_Voltage
+Pump,Metadata,Pump_Feature
+Pump,Metadata,Pump_Series
+Pump,Metadata,Pump_Type
+Pump,Metadata,Type
+Separator,Generic,created_time
+Separator,Generic,data_set_id
+Separator,Generic,description
+Separator,Generic,external_id
+Separator,Generic,id
+Separator,Generic,label
+Separator,Generic,last_updated_time
+Separator,Generic,name
+Separator,Generic,parent_id
+Separator,Generic,root_id
+Separator,Generic,source
+Separator,Metadata,Type
+skid,Generic,created_time
+skid,Generic,data_set_id
+skid,Generic,description
+skid,Generic,external_id
+skid,Generic,id
+skid,Generic,label
+skid,Generic,last_updated_time
+skid,Generic,name
+skid,Generic,parent_id
+skid,Generic,root_id
+skid,Generic,source
+skid,Metadata,Type
+Tank,Generic,created_time
+Tank,Generic,data_set_id
+Tank,Generic,description
+Tank,Generic,external_id
+Tank,Generic,id
+Tank,Generic,label
+Tank,Generic,last_updated_time
+Tank,Generic,name
+Tank,Generic,parent_id
+Tank,Generic,root_id
+Tank,Generic,source
+Tank,Metadata,Capacity
+Tank,Metadata,Product
+Tank,Metadata,Type
+Valve,Generic,created_time
+Valve,Generic,data_set_id
+Valve,Generic,description
+Valve,Generic,external_id
+Valve,Generic,id
+Valve,Generic,label
+Valve,Generic,last_updated_time
+Valve,Generic,name
+Valve,Generic,parent_id
+Valve,Generic,root_id
+Valve,Generic,source
+Valve,Metadata,Type
+Vapor Recovery Unit,Generic,created_time
+Vapor Recovery Unit,Generic,data_set_id
+Vapor Recovery Unit,Generic,description
+Vapor Recovery Unit,Generic,external_id
+Vapor Recovery Unit,Generic,id
+Vapor Recovery Unit,Generic,label
+Vapor Recovery Unit,Generic,last_updated_time
+Vapor Recovery Unit,Generic,name
+Vapor Recovery Unit,Generic,parent_id
+Vapor Recovery Unit,Generic,root_id
+Vapor Recovery Unit,Generic,source
+Vapor Recovery Unit,Metadata,Type
+Vessel,Generic,created_time
+Vessel,Generic,data_set_id
+Vessel,Generic,description
+Vessel,Generic,external_id
+Vessel,Generic,id
+Vessel,Generic,label
+Vessel,Generic,last_updated_time
+Vessel,Generic,name
+Vessel,Generic,parent_id
+Vessel,Generic,root_id
+Vessel,Generic,source
+Vessel,Metadata,Type
+Well,Generic,created_time
+Well,Generic,data_set_id
+Well,Generic,description
+Well,Generic,external_id
+Well,Generic,id
+Well,Generic,label
+Well,Generic,last_updated_time
+Well,Generic,name
+Well,Generic,parent_id
+Well,Generic,root_id
+Well,Generic,source
+Well,Metadata,ALS_date
+Well,Metadata,Status_date
+Well,Metadata,Type_date
+Well,Metadata,Well_ALS
+Well,Metadata,Well_status
+Well,Metadata,Well_type
+Well,Metadata,Class
+Well,Metadata,CRS
+Well,Metadata,GL
+Well,Metadata,KB
+Well,Metadata,RT
+Well,Metadata,SurfaceCoordX
+Well,Metadata,SurfaceCoordY
+Well,Metadata,SurfaceLatitude
+Well,Metadata,SurfaceLongitude
+Well,Metadata,TD
+Well,Metadata,Type
+Well,Metadata,Well_Design
